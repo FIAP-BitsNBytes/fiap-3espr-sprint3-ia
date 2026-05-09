@@ -1,1 +1,8 @@
-# fiap-3espr-sprint3-ia
+## INTEGRANTES
+| NOME | RM |
+| ---- | -- |
+| Gustavo Bezerra Assumção  | RM 553076 |
+| Jó Sales                  | RM 552679 |
+| Miguel Garcez de Carvalho | RM 553768 |
+| Vinicius Souza e Silva    | RM 552781 |
+| Edson Leonardo            | RM 553737 |
